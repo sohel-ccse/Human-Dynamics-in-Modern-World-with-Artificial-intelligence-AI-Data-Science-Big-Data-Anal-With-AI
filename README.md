@@ -1,15 +1,5 @@
 # Human-Dynamics-in-Modern-World-with-Artificial-intelligence-AI-Data-Science-Big-Data-Anal-With-AI
-/* 
 
-My Research Works:
-
-(*) https://www.researchgate.net/publication/343523303_Real_World_Problem_Solving_Using_Artificial_intelligenceAIData_Science_Big_Data_Analytics_A_Case_Study_of_Making_Data-Driven_Decisions_Actions
-
-(*)https://www.researchgate.net/publication/343384731_Improving_official_statistics_in_emerging_markets_using_Artificial_intelligence_AI_A_Case_study_for_Industries
-
-(*)------(Running)-----
-
-*/
 
 (*) Kaggle ID: https://www.kaggle.com/sohelranaccselab
 
